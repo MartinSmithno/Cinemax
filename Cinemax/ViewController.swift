@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Cinemax
-//
-//  Created by Martin Smith on 13/12/2022.
-//
-
 import UIKit
 
 class ViewController: UIViewController {

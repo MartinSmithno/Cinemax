@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Cinemax
-//
-//  Created by Martin Smith on 13/12/2022.
-//
-
 import UIKit
 
 @main
